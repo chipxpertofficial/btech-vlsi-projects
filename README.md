@@ -49,9 +49,9 @@ Examiners look for the same things every year:
 
 If a block below assumes something you haven't covered — FSM encoding, setup/hold, CDC,
 metastability — the companion
-[digital-electronics-reference](https://github.com/saikrishnakk36/digital-electronics-reference)
+[digital-electronics-reference](https://github.com/chipxpertofficial/digital-electronics-reference)
 has concise notes, and
-[vlsi-verilog-examples](https://github.com/saikrishnakk36/vlsi-verilog-examples) has
+[vlsi-verilog-examples](https://github.com/chipxpertofficial/vlsi-verilog-examples) has
 simulation-verified Verilog for most of the primitives these projects build on.
 
 For structured, mentor-led project guidance, the
