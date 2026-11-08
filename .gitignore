@@ -1,0 +1,18 @@
+# Simulation / build artifacts
+*.vcd
+*.fst
+*.vvp
+*.out
+a.out
+obj_dir/
+work/
+*.log
+*.jou
+# Synthesis / FPGA
+*.json
+*.asc
+*.bit
+*.bin
+# Editor
+.DS_Store
+*.swp
